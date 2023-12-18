@@ -1,0 +1,57 @@
+    1  laravel new projekcik
+    2  ls
+    3  code .
+    4  history
+    5  history 2
+    6  history
+    7  history 2
+    8  history 2
+    9  history f 2
+   10  history 10
+   11  commit . -m
+   12  git commit . -m
+   13  history 10
+   14  git log --oneline
+   15  git log -oneline
+   16  history 100
+   17  php artisan serv
+   18  cd projekcik
+   19  php artisan serve
+   20  php artisan make:model modelingo
+   21  php artisan route list 
+   22  php artisan route:list
+   23  php artisan route:list
+   24  php artisan make:controller ProductController
+   25  php artisan route:list
+   26  php artisan route:list
+   27  php artisan route:list
+   28  atom .
+   29  laravel new Sprawdzian
+   30  php artisan serv
+   31  cd sprawdzian
+   32  php artisan serv
+   33  git clone https://github.com/xShadyy/git-kartk
+   34  ls
+   35  cd git-kartk/
+   36  git config --global user.name "xShadyy"
+   37  git config --global user.email "tymoteusz.netter@gmail.com"
+   38  mkdir kartk
+   39  touch zsk
+   40  cd kartk
+   41  ls
+   42  cd gites
+   43  cd \gite
+   44  cd \gites
+   45  cls
+   46  ls
+   47  ls
+   48  ls -al
+   49  ls -la
+   50  git branch kot
+   51  git log --oneline
+   52  git checkout kot
+   53  git rm -r
+   54  git clean -nds
+   55* 
+   56  git clean -n
+   57  history > historia
